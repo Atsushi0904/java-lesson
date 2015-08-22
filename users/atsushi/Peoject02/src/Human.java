@@ -24,7 +24,7 @@ public class Human {
 		System.out.println(result);
 		System.out.println(c);
 		//String result =;//
-		//System.out.println("全員の年齢を足すと" + result + "歳です。");//
+		System.out.println("全員の年齢を足すと" + result + "歳です。");//
 	}
 }
 	
